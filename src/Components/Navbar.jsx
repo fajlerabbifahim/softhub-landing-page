@@ -34,7 +34,7 @@ const Navbar = () => {
         {/* action buttons */}
         <div className="items-center gap-[10px] flex">
           <button className="py-[7px] text-[1rem] px-[16px] rounded-2xl font-semibold capitalize bg-[#99E39E] text-black hover:bg-[#83e98a] transition-all duration-300 sm:flex hidden">
-            Get Template
+            Get Templatee
           </button>
 
           <CiMenuFries
